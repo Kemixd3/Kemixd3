@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Dotnet core, Vue.js, Api, Python**
 
-- 📫 How to reach me **Nikolai2002b@gmail.com**
+- 📫 How to reach me **Visit my LinkedIn**
 
 - ⚡ Fun fact **It always works on MY computer**
 
